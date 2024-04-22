@@ -1,0 +1,20 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/RISCV_tb/BRAM_byte_addressable.vhd,1713279019,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,bram,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,1713279020,vhdl,,,,top_riscv_tb,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/TOP_RISCV.vhd,1713734139,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,top_riscv,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/alu_decoder.vhd,1713379374,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,,,alu_decoder,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,1713733864,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/TOP_RISCV.vhd,,,control_path,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/ctrl_decoder.vhd,1713734466,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,,,ctrl_decoder,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/forwarding_unit.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,,,forwarding_unit,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/hazard_unit.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,,,hazard_unit,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/ALU_simple.vhd,1713381591,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/data_path.vhd,,,alu,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/data_path.vhd,1713734083,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/TOP_RISCV.vhd,,,data_path,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/immediate.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/data_path.vhd,,,immediate,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/register_bank.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/data_path.vhd,,,register_bank,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/packages/alu_ops_pkg.vhd,1713381342,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/alu_decoder.vhd;C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/ALU_simple.vhd,,,alu_ops_pkg,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/packages/controlpath_signals_pkg.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/control_path/control_path.vhd,,,controlpath_signals_pkg,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/packages/datapath_signals_pkg.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/data_path/data_path.vhd,,,datapath_signals_pkg,,,,,,,,
+C:/Users/milan/Downloads/RV32I_pipelined/RV32I/packages/txt_util.vhd,1713279020,vhdl,C:/Users/milan/Downloads/RV32I_pipelined/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,txt_util,,,,,,,,
